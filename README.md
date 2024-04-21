@@ -8,12 +8,6 @@
 
 Die Kneipe hat **alle zwei Wochen** am **Freitag und Samstag** jeweils **ab 18:00** geöffnet.
 
-
-### April
-
-- 19.4.2024
-- 20.4.2024
-
 ### Mai
 
 - 3.5.2024

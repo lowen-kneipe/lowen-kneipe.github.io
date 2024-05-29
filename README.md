@@ -10,16 +10,6 @@ Die Kneipe hat **alle zwei Wochen** am **Freitag und Samstag** jeweils **ab 18:0
 
 ### Mai
 
-- 3.5.2024
-- 4.5.2024
-
-[//]: # ()
-
-- 17.5.2024
-- 18.5.2024
-
-[//]: # ()
-
 - 31.5.2024
 
 ### Juni

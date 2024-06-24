@@ -7,30 +7,28 @@
 ## Aktuelles
 
 - Sondertermin: **Konzert am Mittwoch, 26.6.2024, ab 19:00** mit [Jug Band Colline Metallifere](http://www.jugbandcm.it/) aus Italien (Blues Rock, Rockabilly)  
-Es werden ausgewählte Gerichte zum Essen angeboten
+Es werden ausgewählte Gerichte zum Essen angeboten.  
+Eintritt: Spenden erlaubt
 
 ## Öffnungszeiten
 
 Die Kneipe hat **alle zwei Wochen** am **Freitag und Samstag** jeweils **ab 18:00** geöffnet.
 
-### Mai
-
-- 31.5.2024
-
 ### Juni
-
-- 1.6.2024
-
-[//]: # ()
-
-- 14.6.2024
-- 15.6.2024
-
-[//]: # ()
-
 
 - 28.6.2024
 - 29.6.2024
+
+### Juli
+
+- 12.7.2024
+- 13.7.2024
+
+[//]: # ()
+
+- 26.7.2024
+- 27.7.2024
+
 
 ## Adresse
 

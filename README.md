@@ -12,9 +12,20 @@
 
 Die Kneipe hat nach der Sommerpause wieder **alle zwei Wochen** am **Freitag und Samstag** jeweils **ab 18:00** geöffnet.
 
-### August
+### September
 
-**SOMMERPAUSE**
+- 27.09.
+- 28.09.
+
+### Oktober
+
+- 11.10.
+- 12.10.
+
+
+
+- 25.10.
+- 26.10.
 
 ## Adresse
 

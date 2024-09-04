@@ -22,7 +22,7 @@ Die Kneipe hat nach der Sommerpause wieder **alle zwei Wochen** am **Freitag und
 - 11.10.
 - 12.10.
 
-
+[//]: # ()
 
 - 25.10.
 - 26.10.

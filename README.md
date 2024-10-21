@@ -6,17 +6,11 @@
 
 ## Aktuelles
 
-**Sommerpause**
+Am Samstag, den 2.11., findet ab 20:30 ein Konzert von **String Sensation** statt
 
 ## Öffnungszeiten
 
-Die Kneipe hat nach der Sommerpause wieder **alle zwei Wochen** am **Freitag und Samstag** jeweils **ab 18:00** geöffnet.
-
-### September
-
-**Achtung: im September wird nicht mehr geöffnet**
-- ~~Fr., 27.09.~~
-- ~~Sa., 28.09.~~
+Die Kneipe hat **alle zwei Wochen** am **Freitag und Samstag** jeweils **ab 18:00** geöffnet.
 
 ### Oktober
 
@@ -27,6 +21,20 @@ Die Kneipe hat nach der Sommerpause wieder **alle zwei Wochen** am **Freitag und
 
 - Fr., 25.10.
 - Sa., 26.10.
+
+### November
+
+- Sa., 2.11. Sondertermin: Konzert mit String Sensation ab 20:30
+
+[//]: # ()
+
+- Fr., 8.11.
+- Sa., 9.11.
+
+[//]: # ()
+
+- Fr., 22.11.
+- Sa., 23.11.
 
 ## Adresse
 

@@ -4,19 +4,18 @@
   <img width="460" height="300" src="./logo.svg">
 </p>
 
+## Aktuelles
+
+Wegen Krankheit bleibt die Kneipe am **Fr., 22.11., und Sa., 23.11., geschlossen.**
+
 ## Öffnungszeiten
 
 Die Kneipe hat **alle zwei Wochen** am **Freitag und Samstag** jeweils **ab 18:00** geöffnet.
 
 ### November
-
-- Fr., 8.11.
-- Sa., 9.11.
-
 [//]: # ()
-
-- Fr., 22.11.
-- Sa., 23.11.
+- ~~Fr., 22.11.~~ **GESCHLOSSEN**
+- ~~Sa., 23.11.~~ **GESCHLOSSEN**
 
 ## Adresse
 

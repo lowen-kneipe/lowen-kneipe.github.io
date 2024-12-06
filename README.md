@@ -6,16 +6,16 @@
 
 ## Aktuelles
 
-Wegen Krankheit bleibt die Kneipe am **Fr., 22.11., und Sa., 23.11., geschlossen.**
+Wegen Krankheit bleibt die Kneipe **bis Ende des Jahres geschlossen**
 
 ## Öffnungszeiten
 
 Die Kneipe hat **alle zwei Wochen** am **Freitag und Samstag** jeweils **ab 18:00** geöffnet.
 
-### November
+### Dezember
 [//]: # ()
-- ~~Fr., 22.11.~~ **GESCHLOSSEN**
-- ~~Sa., 23.11.~~ **GESCHLOSSEN**
+- Fr., 6.12. **GESCHLOSSENE GESELLSCHAFT**
+- Sa., 7.12. **GESCHLOSSENE GESELLSCHAFT**
 
 ## Adresse
 

@@ -6,16 +6,13 @@
 
 ## Aktuelles
 
-Wegen Krankheit bleibt die Kneipe **bis Ende des Jahres geschlossen**
+Wegen Krankheit bleibt die Kneipe **bis auf Weiteres geschlossen**
 
-## Öffnungszeiten
+[//]: # (## Öffnungszeiten)
 
-Die Kneipe hat **alle zwei Wochen** am **Freitag und Samstag** jeweils **ab 18:00** geöffnet.
+[//]: # (Die Kneipe hat **alle zwei Wochen** am **Freitag und Samstag** jeweils **ab 18:00** geöffnet.)
 
-### Dezember
 [//]: # ()
-- Fr., 6.12. **GESCHLOSSENE GESELLSCHAFT**
-- Sa., 7.12. **GESCHLOSSENE GESELLSCHAFT**
 
 ## Adresse
 

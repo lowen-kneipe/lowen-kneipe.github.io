@@ -6,7 +6,7 @@
 
 ## Aktuelles
 
-- Sondertermin: **Freitag, 3.7.2026, ab 19:00** mit [Jug Band Colline Metallifere](http://jugbandcm.it)
+- Sondertermin: **Freitag, 3.7.2026, ab 19:00** Konzert mit [Jug Band Colline Metallifere](http://jugbandcm.it)
 
 [//]: # (## Öffnungszeiten)
 

@@ -6,7 +6,7 @@
 
 ## Aktuelles
 
-Wegen Krankheit bleibt die Kneipe **bis auf Weiteres geschlossen**
+- Sondertermin: **Freitag, 3.7.2026, ab 19:00** mit [Jug Band Colline Metallifere](http://jugbandcm.it)
 
 [//]: # (## Öffnungszeiten)
 
